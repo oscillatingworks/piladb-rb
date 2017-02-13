@@ -1,2 +1,2 @@
 # piladb-rb
-Official piladb client in Ruby
+Official piladb client library in Ruby
